@@ -126,7 +126,7 @@ const App = () => {
         ></iframe>
         <div
           id="page5"
-          className="page2 flex items-center justify-center w-screen p-2 h flex-col bg-gray-800 text-white"
+          className="page2 flex items-center justify-center w-screen p-2 pb-0 h flex-col bg-gray-800 text-white"
         >
           Join us at LnD, the oldest club in the institution, and be a part of
           the legacy.
@@ -140,6 +140,9 @@ const App = () => {
             Fill The Form
           </button>
         </div>
+        <h1 className="text-yellow-400 max-w-[1000px] text-2xl w-full text-center  p-1 pt-0">
+          Deadline: Tuesday (8 Oct) - 12 pm
+        </h1>
         <p className="text-white max-w-[1000px] text-xl  p-5">
           Established in 1961, The Literary and Debating Club (LnD), is the
           oldest club in the institution. All our initiatives have a long and
