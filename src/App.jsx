@@ -317,7 +317,7 @@ const App = () => {
           initiatives in our strive to raise awareness and create a safe space.
         </p>
 
-        <h1 className="text-yellow-400 max-w-[1000px] text-3xl w-full text-center p-5 pb-1">
+        <h1 className="text-yellow-400 max-w-[1000px] text-xl w-full text-center p-5 pb-1">
           So what are you waiting for!? Fill the form to join our family!!
         </h1>
         <button
