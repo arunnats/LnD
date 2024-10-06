@@ -222,7 +222,7 @@ const App = () => {
           heard.{" "}
         </p>
         <h1 className="text-white max-w-[1000px] text-3xl w-full text-start  p-5">
-          Book Club:{" "}
+          Book Club{" "}
         </h1>
         <img
           src={Bookclub}
@@ -261,7 +261,7 @@ const App = () => {
         </p>
 
         <h1 className="text-white max-w-[1000px] text-3xl w-full text-start p-5">
-          Collaboration with NITCAA:
+          Collaboration with NITCAA
         </h1>
         <img
           src={NITCAA}
@@ -274,7 +274,7 @@ const App = () => {
         </p>
 
         <h1 className="text-white max-w-[1000px] text-3xl w-full text-start p-5">
-          Debating Society - NUALS British Parliamentary Debate: :
+          Debating Society - NUALS British Parliamentary Debate
         </h1>
         <img
           src={NUALS}
