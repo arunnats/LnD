@@ -245,38 +245,6 @@ const App = () => {
         className="page2 flex items-center justify-center w-screen min-h-screen h-max flex-col bg-gray-800 p-5"
       >
         <h1 className="text-white max-w-[1000px] text-3xl w-full text-start  p-5">
-          HONIT (
-          <a
-            href="https://www.instagram.com/humansofnitcalicut/"
-            className="text-yellow-400"
-          >
-            Humans of NITC
-          </a>
-          )
-        </h1>
-        <p className="text-white max-w-[1000px] text-xl  p-5">
-          As the name suggests, HONITs are all about the people who bring life
-          to the campus. The HONIT page on Instagram showcases interesting
-          stories within the student community and inspiring anecdotes of all
-          those people who impact the lives in NITC.{" "}
-        </p>
-        <h1 className="text-white max-w-[1000px] text-3xl w-full text-start  p-5">
-          Awareness Initiatives
-        </h1>
-        {/* <img
-          src={Kaapikootam}
-          alt="poster"
-          className="poster w-[30%] min-w-80 max-w-xl"
-        /> */}
-        <p className="text-white max-w-[1000px] text-xl  p-5">
-          LnD has always been an ally of the LGBTQIA community, actively
-          demanding and working towards an inclusive environment on campus.
-          Mental Health Awareness Week is a series of social media content
-          released in the month of May. We put out numerous articles and
-          initiatives in our strive to raise awareness and create a safe space.
-        </p>
-
-        <h1 className="text-white max-w-[1000px] text-3xl w-full text-start  p-5">
           Volunteering at KLF
         </h1>
         <img
@@ -315,6 +283,38 @@ const App = () => {
           Parliamentary Debate competition by NUALS, Kochi. Our team was a group
           of six people selected from LnD after vigorous practice within the
           club’s DebSoc sessions. The team made it to the final rounds.
+        </p>
+
+        <h1 className="text-white max-w-[1000px] text-3xl w-full text-start  p-5">
+          HONIT (
+          <a
+            href="https://www.instagram.com/humansofnitcalicut/"
+            className="text-yellow-400"
+          >
+            Humans of NITC
+          </a>
+          )
+        </h1>
+        <p className="text-white max-w-[1000px] text-xl  p-5">
+          As the name suggests, HONITs are all about the people who bring life
+          to the campus. The HONIT page on Instagram showcases interesting
+          stories within the student community and inspiring anecdotes of all
+          those people who impact the lives in NITC.{" "}
+        </p>
+        <h1 className="text-white max-w-[1000px] text-3xl w-full text-start  p-5">
+          Awareness Initiatives
+        </h1>
+        {/* <img
+          src={Kaapikootam}
+          alt="poster"
+          className="poster w-[30%] min-w-80 max-w-xl"
+        /> */}
+        <p className="text-white max-w-[1000px] text-xl  p-5">
+          LnD has always been an ally of the LGBTQIA community, actively
+          demanding and working towards an inclusive environment on campus.
+          Mental Health Awareness Week is a series of social media content
+          released in the month of May. We put out numerous articles and
+          initiatives in our strive to raise awareness and create a safe space.
         </p>
 
         <h1 className="text-yellow-400 max-w-[1000px] text-3xl w-full text-center p-5 pb-1">
